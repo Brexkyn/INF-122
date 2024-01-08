@@ -1,2 +1,3 @@
 # INF-122
-Repositorio
+Juan Jose Pinto Mendoza
+inf 122
